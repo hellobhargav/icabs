@@ -1,0 +1,8 @@
+.nav-link{
+    background-color: rgb(79, 4, 4);
+    text-align: center;
+    color: white;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    padding: 10px 40px !important;
+}
